@@ -1,0 +1,1 @@
+# DocomoUninstall
